@@ -1,0 +1,41 @@
+id_venda,cliente,cidade,idade,produto,categoria,preco_unitario,quantidade,valor_total,data,pagamento
+1,Sabrina,São Paulo,38.0,Webcam,Periféricos,191,1,191,2024-01-05,Cartão
+2,Natalia,Campinas,40.0,Notebook,Eletrônicos,3895,5,19475,2024-03-16,Pix
+3,Daniela,São Paulo,38.0,Notebook,Eletrônicos,3653,3,10959,2024-01-13,Pix
+4,Carlos,Guarulhos,32.0,Teclado,Periféricos,122,4,488,2024-04-16,Boleto
+5,Juliana,São Paulo,30.0,Headset,Áudio,173,2,346,2024-04-20,Cartão
+6,Igor,São Paulo,28.0,Monitor,Eletrônicos,1133,2,2266,2024-03-09,Boleto
+7,Helena,Santos,22.0,Mouse,Periféricos,168,5,840,2024-01-30,Cartão
+8,Gabriel,Sorocaba,38.0,Teclado,Periféricos,133,3,399,2024-04-23,Boleto
+9,Igor,Guarulhos,38.0,Monitor,Eletrônicos,1305,5,6525,2024-04-24,Boleto
+10,Daniela,Campinas,28.0,Monitor,Eletrônicos,1843,1,1843,2024-04-11,Boleto
+11,Igor,Guarulhos,22.0,Monitor,Eletrônicos,1581,5,7905,2024-03-28,Boleto
+12,Fernanda,Sorocaba,22.0,Notebook,Eletrônicos,5792,4,23168,2024-04-02,Boleto
+13,Rafael,Guarulhos,30.0,Teclado,Periféricos,359,3,1077,2024-01-20,Pix
+14,Larissa,Santos,30.0,Mouse,Periféricos,185,1,185,2024-01-08,Cartão
+15,Eduardo,Sorocaba,,Headset,Áudio,539,2,1078,2024-01-22,Pix
+16,Juliana,Sorocaba,35.0,Headset,Áudio,536,2,1072,2024-02-26,Boleto
+17,Sabrina,Campinas,30.0,Monitor,Eletrônicos,931,5,4655,2024-01-01,Cartão
+18,Rafael,Campinas,32.0,Webcam,Periféricos,289,1,289,2024-03-26,Pix
+19,Natalia,Campinas,25.0,Mouse,Periféricos,83,4,332,2024-01-13,Boleto
+20,Daniela,São Paulo,38.0,Monitor,Eletrônicos,1756,1,1756,2024-04-03,Pix
+21,Fernanda,Santos,40.0,Notebook,Eletrônicos,4018,4,16072,2024-02-01,Cartão
+22,Helena,Campinas,38.0,Monitor,Eletrônicos,1907,1,1907,2024-03-03,Pix
+23,Otavio,Santos,38.0,Mouse,Periféricos,65,3,195,2024-03-30,Boleto
+24,Tiago,Guarulhos,22.0,Headset,Áudio,301,1,301,2024-04-05,Pix
+25,Bruno,Guarulhos,25.0,Notebook,Eletrônicos,3205,2,6410,2024-04-18,Cartão
+26,Tiago,Guarulhos,22.0,Notebook,Eletrônicos,5437,2,10874,2024-03-20,Cartão
+27,Kleber,Campinas,32.0,Monitor,Eletrônicos,1870,2,3740,2024-02-20,Cartão
+28,Otavio,Guarulhos,25.0,Webcam,Periféricos,157,1,157,2024-01-10,Boleto
+29,Juliana,Campinas,40.0,Mouse,Periféricos,117,3,351,2024-04-16,Boleto
+30,Eduardo,Santos,25.0,Webcam,Periféricos,459,1,459,2024-04-23,Cartão
+31,Gabriel,Santos,,Webcam,Periféricos,227,3,681,2024-03-03,Pix
+32,Igor,Campinas,40.0,Notebook,Eletrônicos,3378,2,6756,2024-03-11,Boleto
+33,Bruno,Santos,,Monitor,Eletrônicos,954,5,4770,2024-01-19,Pix
+34,Daniela,Santos,,Mouse,Periféricos,128,2,256,2024-04-23,Pix
+35,Kleber,Sorocaba,30.0,Headset,Áudio,361,2,722,2024-02-04,Cartão
+36,Larissa,Santos,30.0,Webcam,Periféricos,222,4,888,2024-01-29,Cartão
+37,Larissa,Guarulhos,38.0,Webcam,Periféricos,155,3,465,2024-03-27,Boleto
+38,Daniela,Guarulhos,38.0,Teclado,Periféricos,233,1,233,2024-02-14,Boleto
+39,Bruno,Sorocaba,22.0,Teclado,Periféricos,159,3,477,2024-03-07,Boleto
+40,Vanessa,Santos,25.0,Webcam,Periféricos,460,3,1380,2024-04-02,Pix
